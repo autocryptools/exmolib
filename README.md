@@ -1,2 +1,2 @@
-# exmolib - Python3 library dor API cryptocurrency exchange exmo.me
-Библиотека на Python3 для работы биржей-криптовалют exmo.me
+# exmolib - Python3 library for API cryptocurrency exchange exmo.me
+Библиотека Python3 для работы с API биржей-криптовалют exmo.me
